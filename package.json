@@ -1,0 +1,25 @@
+{
+  "name": "string-manuplation",
+  "version": "1.0.0",
+  "description": "Any kind of string manuplation JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IAMROYDEV/string-manuplation.git"
+  },
+  "keywords": [
+    "string",
+    "lowercase",
+    "firstletter",
+    "uppercase"
+  ],
+  "author": "Santosh Gali",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IAMROYDEV/string-manuplation/issues"
+  },
+  "homepage": "https://github.com/IAMROYDEV/string-manuplation#readme"
+}
